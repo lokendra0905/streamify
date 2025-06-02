@@ -4,6 +4,8 @@
   A modern fullstack application featuring real-time messaging, group video calling, and a language exchange platform – all wrapped in 32 dynamic UI themes.
 </p>
 
+<h2 align="center">📦 Streamify – A Scalable Chat & Video Communication Suite</h2>
+
 ---
 
 ## 🚀 Features
@@ -37,20 +39,6 @@
 
 Create a `.env` file in the `/backend` directory:
 
-````env
-PORT=5001
-MONGO_URI=your_mongo_uri
-STEAM_API_KEY=your_steam_api_key
-STEAM_API_SECRET=your_steam_api_secret
-JWT_SECRET_KEY=your_jwt_secret
-NODE_ENV=development
-
-## 🧪 Environment Variables
-
-### 📂 Backend (`/backend`)
-
-Create a `.env` file in the `/backend` directory:
-
 ```env
 PORT=5001
 MONGO_URI=your_mongo_uri
@@ -58,9 +46,7 @@ STEAM_API_KEY=your_steam_api_key
 STEAM_API_SECRET=your_steam_api_secret
 JWT_SECRET_KEY=your_jwt_secret
 NODE_ENV=development
-````
-
-````
+```
 
 ### 🖥️ Frontend (`/frontend`)
 
@@ -92,32 +78,26 @@ npm run dev
 
 ---
 
-## 📷 Screenshots
-
-> Add your screenshots here if available for visual demo.
-
----
-
 ## 🤝 Contributing
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+We welcome contributions from developers of all levels. If you’d like to improve the app, fix bugs, or propose features:
 
----
+1. Fork the repository.
+2. Create a new branch: `git checkout -b your-feature-name`
+3. Make your changes and commit: `git commit -m "Add some feature"`
+4. Push to the branch: `git push origin your-feature-name`
+5. Submit a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
+For major changes, please open an issue first to discuss what you'd like to change.
+Make sure to write clear, concise commit messages and follow our code style.
 
 ---
 
 ## 💬 Contact
 
-For questions, suggestions, or collaboration, feel free to open an issue or reach out.
+Have feedback, questions, or ideas? We’d love to hear from you!
 
-```
+- 📧 Email: [lokendras49450@gmail.com](mailto:lokendras49450@gmail.com)
+- 🌐 Project Website: [https://streamify-p53i.onrender.com/](https://streamify-p53i.onrender.com/)
 
----
-
-Let me know if you'd like this `README.md` to include badges, GIF demos, or deployment instructions (e.g., for Vercel/Render).
-```
-````
+You can also reach out via discussions or suggest features anytime. Let’s build something amazing together!
